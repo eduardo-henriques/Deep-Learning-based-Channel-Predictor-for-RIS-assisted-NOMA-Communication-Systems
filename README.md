@@ -32,13 +32,13 @@ Our principal contribution is a proposed new DL model, which incorporates additi
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/eduardo-henriques/Deep-Learning-based-Channel-Predictor-for-RIS-assisted-NOMA-Communication-Systems.git
+cd Deep-Learning-based-Channel-Predictor-for-RIS-assisted-NOMA-Communication-Systems
+```
 
+## PDF of the Graduation Project
 
-### PDF of the Graduation Project
-
-You can download the full PDF of my graduation project [here]().
+You can download the full text of my graduation project [here]().
 
 ## Authors
 
