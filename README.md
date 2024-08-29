@@ -46,4 +46,4 @@ You can download the full text of my graduation project [here]().
 
 ## Acknowledgments
 
-I would like to thank my advisors, Prof. Paulo S. R. Diniz and Prof. Rafael da Silva Chaves, for their guidance and support throughout this project. I also express my gratitude to my family and friends for their encouragement during my studies.
+I would like to thank my advisors, Prof. Paulo S. R. Diniz and Prof. Rafael da Silva Chaves, for their guidance and support throughout this project. Furthermore, I would like to extend my gratitude to the professors Marcello L. R. de Campos and Markus Vinicius Santos Lima for their contribution as members of the evaluation committee for this project. I also express my gratitude to my family and friends for their encouragement during my studies.
