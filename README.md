@@ -38,7 +38,7 @@ cd Deep-Learning-based-Channel-Predictor-for-RIS-assisted-NOMA-Communication-Sys
 
 ## PDF of the Graduation Project
 
-You can download the full text of my graduation project [here]().
+You can download the full text of my graduation project [here](http://www.repositorio.poli.ufrj.br/rep-download.php?farquivo=projpoli10044559.pdf&fcodigo=6646).
 
 ## Authors
 
